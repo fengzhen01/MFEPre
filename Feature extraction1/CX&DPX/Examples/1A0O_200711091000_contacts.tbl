@@ -1,0 +1,265 @@
+pdb_id: 1A0O
+radii_filename: A    90  ALA  B   181  HIS               PIADA       vanDerWaals
+A    92  LYS  B   181  HIS               PIADA             Polar       vanDerWaals
+A    92  LYS  B   182  LEU               PIADA             Polar       vanDerWaals
+A    92  LYS  B   202  ASP               PIADA             Ionic
+A    92  LYS  B   203  ILE               PIADA       vanDerWaals
+A    95  ILE  B   181  HIS               PIADA       vanDerWaals
+A    95  ILE  B   211  VAL               PIADA       Hydrophobic       vanDerWaals
+A    95  ILE  B   214  PHE               PIADA       Hydrophobic       vanDerWaals
+A    96  ILE  B   182  LEU               PIADA       Hydrophobic       vanDerWaals
+A    96  ILE  B   203  ILE               PIADA       Hydrophobic       vanDerWaals
+A    96  ILE  B   207  ASP               PIADA       vanDerWaals
+A    96  ILE  B   211  VAL               PIADA       Hydrophobic       vanDerWaals
+A    98  ALA  B   214  PHE               PIADA       Hydrophobic       vanDerWaals
+A    99  ALA  B   210  ALA               PIADA       Hydrophobic       vanDerWaals
+A    99  ALA  B   211  VAL               PIADA       Hydrophobic       vanDerWaals
+A    99  ALA  B   214  PHE               PIADA       Hydrophobic       vanDerWaals
+A   100  GLN  B   206  ASP               PIADA             Polar       vanDerWaals
+A   100  GLN  B   207  ASP               PIADA             Polar       vanDerWaals
+A   100  GLN  B   210  ALA               PIADA       vanDerWaals
+A   103  ALA  B   214  PHE               PIADA       Hydrophobic       vanDerWaals
+A   104  SER  B   214  PHE               PIADA       vanDerWaals
+A   105  GLY  B   214  PHE               PIADA       vanDerWaals
+A   106  TYR  B   178  GLU               PIADA             Polar       vanDerWaals
+A   106  TYR  B   181  HIS               PIADA             Polar       vanDerWaals
+A   106  TYR  B   214  PHE               PIADA       vanDerWaals
+A   119  LYS  B   178  GLU               PIADA             Ionic
+A   122  LYS  B   171  GLU               PIADA             Ionic       vanDerWaals
+A   122  LYS  B   214  PHE               PIADA       vanDerWaals
+A   122  LYS  B   215  VAL               PIADA             Polar       vanDerWaals
+A   126  LYS  B   213  CYS               PIADA             Polar       vanDerWaals
+A   126  LYS  B   214  PHE               PIADA       vanDerWaals
+A   126  LYS  B   215  VAL               PIADA             Polar       vanDerWaals
+A   126  LYS  B   216  ILE               PIADA             Polar       vanDerWaals
+A   126  LYS  B   217  GLU               PIADA             Ionic       vanDerWaals
+B   171  GLU  A   122  LYS               PIADA             Ionic       vanDerWaals
+B   178  GLU  A   106  TYR               PIADA             Polar       vanDerWaals
+B   178  GLU  A   119  LYS               PIADA             Ionic
+B   181  HIS  A    90  ALA               PIADA       vanDerWaals
+B   181  HIS  A    92  LYS               PIADA             Polar       vanDerWaals
+B   181  HIS  A    95  ILE               PIADA       vanDerWaals
+B   181  HIS  A   106  TYR               PIADA             Polar       vanDerWaals
+B   182  LEU  A    92  LYS               PIADA             Polar       vanDerWaals
+B   182  LEU  A    96  ILE               PIADA       Hydrophobic       vanDerWaals
+B   202  ASP  A    92  LYS               PIADA             Ionic
+B   203  ILE  A    92  LYS               PIADA       vanDerWaals
+B   203  ILE  A    96  ILE               PIADA       Hydrophobic       vanDerWaals
+B   206  ASP  A   100  GLN               PIADA             Polar       vanDerWaals
+B   207  ASP  A    96  ILE               PIADA       vanDerWaals
+B   207  ASP  A   100  GLN               PIADA             Polar       vanDerWaals
+B   210  ALA  A    99  ALA               PIADA       Hydrophobic       vanDerWaals
+B   210  ALA  A   100  GLN               PIADA       vanDerWaals
+B   211  VAL  A    95  ILE               PIADA       Hydrophobic       vanDerWaals
+B   211  VAL  A    96  ILE               PIADA       Hydrophobic       vanDerWaals
+B   211  VAL  A    99  ALA               PIADA       Hydrophobic       vanDerWaals
+B   213  CYS  A   126  LYS               PIADA             Polar       vanDerWaals
+B   214  PHE  A    95  ILE               PIADA       Hydrophobic       vanDerWaals
+B   214  PHE  A    98  ALA               PIADA       Hydrophobic       vanDerWaals
+B   214  PHE  A    99  ALA               PIADA       Hydrophobic       vanDerWaals
+B   214  PHE  A   103  ALA               PIADA       Hydrophobic       vanDerWaals
+B   214  PHE  A   104  SER               PIADA       vanDerWaals
+B   214  PHE  A   105  GLY               PIADA       vanDerWaals
+B   214  PHE  A   106  TYR               PIADA       vanDerWaals
+B   214  PHE  A   122  LYS               PIADA       vanDerWaals
+B   214  PHE  A   126  LYS               PIADA       vanDerWaals
+B   215  VAL  A   122  LYS               PIADA             Polar       vanDerWaals
+B   215  VAL  A   126  LYS               PIADA             Polar       vanDerWaals
+B   216  ILE  A   126  LYS               PIADA             Polar       vanDerWaals
+B   217  GLU  A   126  LYS               PIADA             Ionic       vanDerWaals
+C    90  ALA  D   181  HIS               PIADA       vanDerWaals
+C    92  LYS  D   181  HIS               PIADA             Polar       vanDerWaals
+C    92  LYS  D   182  LEU               PIADA             Polar       vanDerWaals
+C    95  ILE  D   178  GLU               PIADA       vanDerWaals
+C    95  ILE  D   181  HIS               PIADA       vanDerWaals
+C    95  ILE  D   182  LEU               PIADA       Hydrophobic       vanDerWaals
+C    95  ILE  D   211  VAL               PIADA       Hydrophobic       vanDerWaals
+C    95  ILE  D   214  PHE               PIADA       Hydrophobic       vanDerWaals
+C    96  ILE  D   182  LEU               PIADA       Hydrophobic       vanDerWaals
+C    96  ILE  D   207  ASP               PIADA       vanDerWaals
+C    96  ILE  D   211  VAL               PIADA       Hydrophobic       vanDerWaals
+C    98  ALA  D   214  PHE               PIADA       Hydrophobic       vanDerWaals
+C    99  ALA  D   210  ALA               PIADA       Hydrophobic       vanDerWaals
+C    99  ALA  D   211  VAL               PIADA       Hydrophobic       vanDerWaals
+C    99  ALA  D   214  PHE               PIADA       Hydrophobic       vanDerWaals
+C   100  GLN  D   207  ASP               PIADA             Polar       vanDerWaals
+C   100  GLN  D   210  ALA               PIADA       vanDerWaals
+C   103  ALA  D   214  PHE               PIADA       Hydrophobic       vanDerWaals
+C   104  SER  D   214  PHE               PIADA       vanDerWaals
+C   105  GLY  D   214  PHE               PIADA       vanDerWaals
+C   106  TYR  D   178  GLU               PIADA             Polar       vanDerWaals
+C   106  TYR  D   181  HIS               PIADA             Polar       vanDerWaals
+C   106  TYR  D   214  PHE               PIADA       vanDerWaals
+C   119  LYS  D   178  GLU               PIADA             Ionic
+C   122  LYS  D   171  GLU               PIADA             Ionic       vanDerWaals
+C   122  LYS  D   214  PHE               PIADA       vanDerWaals
+C   122  LYS  D   215  VAL               PIADA             Polar       vanDerWaals
+C   126  LYS  D   213  CYS               PIADA             Polar       vanDerWaals
+C   126  LYS  D   214  PHE               PIADA       vanDerWaals
+C   126  LYS  D   215  VAL               PIADA             Polar       vanDerWaals
+C   126  LYS  D   216  ILE               PIADA             Polar       vanDerWaals
+C   126  LYS  D   217  GLU               PIADA             Ionic       vanDerWaals
+D   171  GLU  C   122  LYS               PIADA             Ionic       vanDerWaals
+D   178  GLU  C    95  ILE               PIADA       vanDerWaals
+D   178  GLU  C   106  TYR               PIADA             Polar       vanDerWaals
+D   178  GLU  C   119  LYS               PIADA             Ionic
+D   181  HIS  C    90  ALA               PIADA       vanDerWaals
+D   181  HIS  C    92  LYS               PIADA             Polar       vanDerWaals
+D   181  HIS  C    95  ILE               PIADA       vanDerWaals
+D   181  HIS  C   106  TYR               PIADA             Polar       vanDerWaals
+D   182  LEU  C    92  LYS               PIADA             Polar       vanDerWaals
+D   182  LEU  C    95  ILE               PIADA       Hydrophobic       vanDerWaals
+D   182  LEU  C    96  ILE               PIADA       Hydrophobic       vanDerWaals
+D   207  ASP  C    96  ILE               PIADA       vanDerWaals
+D   207  ASP  C   100  GLN               PIADA             Polar       vanDerWaals
+D   210  ALA  C    99  ALA               PIADA       Hydrophobic       vanDerWaals
+D   210  ALA  C   100  GLN               PIADA       vanDerWaals
+D   211  VAL  C    95  ILE               PIADA       Hydrophobic       vanDerWaals
+D   211  VAL  C    96  ILE               PIADA       Hydrophobic       vanDerWaals
+D   211  VAL  C    99  ALA               PIADA       Hydrophobic       vanDerWaals
+D   213  CYS  C   126  LYS               PIADA             Polar       vanDerWaals
+D   214  PHE  C    95  ILE               PIADA       Hydrophobic       vanDerWaals
+D   214  PHE  C    98  ALA               PIADA       Hydrophobic       vanDerWaals
+D   214  PHE  C    99  ALA               PIADA       Hydrophobic       vanDerWaals
+D   214  PHE  C   103  ALA               PIADA       Hydrophobic       vanDerWaals
+D   214  PHE  C   104  SER               PIADA       vanDerWaals
+D   214  PHE  C   105  GLY               PIADA       vanDerWaals
+D   214  PHE  C   106  TYR               PIADA       vanDerWaals
+D   214  PHE  C   122  LYS               PIADA       vanDerWaals
+D   214  PHE  C   126  LYS               PIADA       vanDerWaals
+D   215  VAL  C   122  LYS               PIADA             Polar       vanDerWaals
+D   215  VAL  C   126  LYS               PIADA             Polar       vanDerWaals
+D   216  ILE  C   126  LYS               PIADA             Polar       vanDerWaals
+D   217  GLU  C   126  LYS               PIADA             Ionic       vanDerWaals
+E    90  ALA  F   181  HIS               PIADA       vanDerWaals
+E    92  LYS  F   181  HIS               PIADA             Polar       vanDerWaals
+E    92  LYS  F   182  LEU               PIADA             Polar       vanDerWaals
+E    92  LYS  F   202  ASP               PIADA             Ionic
+E    92  LYS  F   203  ILE               PIADA       vanDerWaals
+E    95  ILE  F   181  HIS               PIADA       vanDerWaals
+E    95  ILE  F   182  LEU               PIADA       vanDerWaals
+E    95  ILE  F   211  VAL               PIADA       Hydrophobic       vanDerWaals
+E    95  ILE  F   214  PHE               PIADA       Hydrophobic       vanDerWaals
+E    96  ILE  F   182  LEU               PIADA       Hydrophobic       vanDerWaals
+E    96  ILE  F   203  ILE               PIADA       vanDerWaals
+E    96  ILE  F   207  ASP               PIADA       vanDerWaals
+E    96  ILE  F   211  VAL               PIADA       Hydrophobic       vanDerWaals
+E    98  ALA  F   214  PHE               PIADA       Hydrophobic       vanDerWaals
+E    99  ALA  F   210  ALA               PIADA       Hydrophobic       vanDerWaals
+E    99  ALA  F   211  VAL               PIADA       Hydrophobic       vanDerWaals
+E    99  ALA  F   214  PHE               PIADA       Hydrophobic       vanDerWaals
+E   100  GLN  F   206  ASP               PIADA             Polar       vanDerWaals
+E   100  GLN  F   207  ASP               PIADA             Polar       vanDerWaals
+E   100  GLN  F   210  ALA               PIADA       vanDerWaals
+E   103  ALA  F   214  PHE               PIADA       Hydrophobic       vanDerWaals
+E   104  SER  F   214  PHE               PIADA       vanDerWaals
+E   105  GLY  F   214  PHE               PIADA       vanDerWaals
+E   106  TYR  F   178  GLU               PIADA             Polar       vanDerWaals
+E   106  TYR  F   181  HIS               PIADA             Polar       vanDerWaals
+E   106  TYR  F   214  PHE               PIADA       vanDerWaals
+E   119  LYS  F   178  GLU               PIADA             Ionic
+E   122  LYS  F   171  GLU               PIADA             Ionic       vanDerWaals
+E   122  LYS  F   215  VAL               PIADA             Polar       vanDerWaals
+E   125  GLU  F   168  LYS               PIADA             Ionic
+E   126  LYS  F   213  CYS               PIADA             Polar       vanDerWaals
+E   126  LYS  F   214  PHE               PIADA             Polar       vanDerWaals
+E   126  LYS  F   215  VAL               PIADA             Polar       vanDerWaals
+E   126  LYS  F   216  ILE               PIADA             Polar       vanDerWaals
+E   126  LYS  F   217  GLU               PIADA             Ionic       vanDerWaals
+F   168  LYS  E   125  GLU               PIADA             Ionic
+F   171  GLU  E   122  LYS               PIADA             Ionic       vanDerWaals
+F   178  GLU  E   106  TYR               PIADA             Polar       vanDerWaals
+F   178  GLU  E   119  LYS               PIADA             Ionic
+F   181  HIS  E    90  ALA               PIADA       vanDerWaals
+F   181  HIS  E    92  LYS               PIADA             Polar       vanDerWaals
+F   181  HIS  E    95  ILE               PIADA       vanDerWaals
+F   181  HIS  E   106  TYR               PIADA             Polar       vanDerWaals
+F   182  LEU  E    92  LYS               PIADA             Polar       vanDerWaals
+F   182  LEU  E    95  ILE               PIADA       vanDerWaals
+F   182  LEU  E    96  ILE               PIADA       Hydrophobic       vanDerWaals
+F   202  ASP  E    92  LYS               PIADA             Ionic
+F   203  ILE  E    92  LYS               PIADA       vanDerWaals
+F   203  ILE  E    96  ILE               PIADA       vanDerWaals
+F   206  ASP  E   100  GLN               PIADA             Polar       vanDerWaals
+F   207  ASP  E    96  ILE               PIADA       vanDerWaals
+F   207  ASP  E   100  GLN               PIADA             Polar       vanDerWaals
+F   210  ALA  E    99  ALA               PIADA       Hydrophobic       vanDerWaals
+F   210  ALA  E   100  GLN               PIADA       vanDerWaals
+F   211  VAL  E    95  ILE               PIADA       Hydrophobic       vanDerWaals
+F   211  VAL  E    96  ILE               PIADA       Hydrophobic       vanDerWaals
+F   211  VAL  E    99  ALA               PIADA       Hydrophobic       vanDerWaals
+F   213  CYS  E   126  LYS               PIADA             Polar       vanDerWaals
+F   214  PHE  E    95  ILE               PIADA       Hydrophobic       vanDerWaals
+F   214  PHE  E    98  ALA               PIADA       Hydrophobic       vanDerWaals
+F   214  PHE  E    99  ALA               PIADA       Hydrophobic       vanDerWaals
+F   214  PHE  E   103  ALA               PIADA       Hydrophobic       vanDerWaals
+F   214  PHE  E   104  SER               PIADA       vanDerWaals
+F   214  PHE  E   105  GLY               PIADA       vanDerWaals
+F   214  PHE  E   106  TYR               PIADA       vanDerWaals
+F   214  PHE  E   126  LYS               PIADA             Polar       vanDerWaals
+F   215  VAL  E   122  LYS               PIADA             Polar       vanDerWaals
+F   215  VAL  E   126  LYS               PIADA             Polar       vanDerWaals
+F   216  ILE  E   126  LYS               PIADA             Polar       vanDerWaals
+F   217  GLU  E   126  LYS               PIADA             Ionic       vanDerWaals
+G    90  ALA  H   181  HIS               PIADA       vanDerWaals
+G    92  LYS  H   181  HIS               PIADA             Polar       vanDerWaals
+G    92  LYS  H   182  LEU               PIADA       vanDerWaals
+G    95  ILE  H   181  HIS               PIADA       vanDerWaals
+G    95  ILE  H   182  LEU               PIADA       Hydrophobic       vanDerWaals
+G    95  ILE  H   211  VAL               PIADA       Hydrophobic       vanDerWaals
+G    95  ILE  H   214  PHE               PIADA       Hydrophobic       vanDerWaals
+G    96  ILE  H   182  LEU               PIADA       Hydrophobic       vanDerWaals
+G    96  ILE  H   207  ASP               PIADA       vanDerWaals
+G    96  ILE  H   211  VAL               PIADA       Hydrophobic       vanDerWaals
+G    98  ALA  H   214  PHE               PIADA       Hydrophobic       vanDerWaals
+G    99  ALA  H   210  ALA               PIADA       Hydrophobic       vanDerWaals
+G    99  ALA  H   211  VAL               PIADA       Hydrophobic       vanDerWaals
+G    99  ALA  H   214  PHE               PIADA       Hydrophobic       vanDerWaals
+G   100  GLN  H   207  ASP               PIADA             Polar       vanDerWaals
+G   103  ALA  H   214  PHE               PIADA       Hydrophobic       vanDerWaals
+G   104  SER  H   214  PHE               PIADA       vanDerWaals
+G   105  GLY  H   214  PHE               PIADA       vanDerWaals
+G   106  TYR  H   178  GLU               PIADA             Polar       vanDerWaals
+G   106  TYR  H   181  HIS               PIADA             Polar       vanDerWaals
+G   106  TYR  H   214  PHE               PIADA       vanDerWaals
+G   119  LYS  H   178  GLU               PIADA             Ionic
+G   122  LYS  H   171  GLU               PIADA       vanDerWaals
+G   122  LYS  H   214  PHE               PIADA       vanDerWaals
+G   122  LYS  H   215  VAL               PIADA             Polar       vanDerWaals
+G   125  GLU  H   168  LYS               PIADA             Ionic
+G   126  LYS  H   213  CYS               PIADA             Polar       vanDerWaals
+G   126  LYS  H   214  PHE               PIADA       vanDerWaals
+G   126  LYS  H   215  VAL               PIADA       vanDerWaals
+G   126  LYS  H   216  ILE               PIADA             Polar       vanDerWaals
+G   126  LYS  H   217  GLU               PIADA             Ionic       vanDerWaals
+H   168  LYS  G   125  GLU               PIADA             Ionic
+H   171  GLU  G   122  LYS               PIADA       vanDerWaals
+H   178  GLU  G   106  TYR               PIADA             Polar       vanDerWaals
+H   178  GLU  G   119  LYS               PIADA             Ionic
+H   181  HIS  G    90  ALA               PIADA       vanDerWaals
+H   181  HIS  G    92  LYS               PIADA             Polar       vanDerWaals
+H   181  HIS  G    95  ILE               PIADA       vanDerWaals
+H   181  HIS  G   106  TYR               PIADA             Polar       vanDerWaals
+H   182  LEU  G    92  LYS               PIADA       vanDerWaals
+H   182  LEU  G    95  ILE               PIADA       Hydrophobic       vanDerWaals
+H   182  LEU  G    96  ILE               PIADA       Hydrophobic       vanDerWaals
+H   207  ASP  G    96  ILE               PIADA       vanDerWaals
+H   207  ASP  G   100  GLN               PIADA             Polar       vanDerWaals
+H   210  ALA  G    99  ALA               PIADA       Hydrophobic       vanDerWaals
+H   211  VAL  G    95  ILE               PIADA       Hydrophobic       vanDerWaals
+H   211  VAL  G    96  ILE               PIADA       Hydrophobic       vanDerWaals
+H   211  VAL  G    99  ALA               PIADA       Hydrophobic       vanDerWaals
+H   213  CYS  G   126  LYS               PIADA             Polar       vanDerWaals
+H   214  PHE  G    95  ILE               PIADA       Hydrophobic       vanDerWaals
+H   214  PHE  G    98  ALA               PIADA       Hydrophobic       vanDerWaals
+H   214  PHE  G    99  ALA               PIADA       Hydrophobic       vanDerWaals
+H   214  PHE  G   103  ALA               PIADA       Hydrophobic       vanDerWaals
+H   214  PHE  G   104  SER               PIADA       vanDerWaals
+H   214  PHE  G   105  GLY               PIADA       vanDerWaals
+H   214  PHE  G   106  TYR               PIADA       vanDerWaals
+H   214  PHE  G   122  LYS               PIADA       vanDerWaals
+H   214  PHE  G   126  LYS               PIADA       vanDerWaals
+H   215  VAL  G   122  LYS               PIADA             Polar       vanDerWaals
+H   215  VAL  G   126  LYS               PIADA       vanDerWaals
+H   216  ILE  G   126  LYS               PIADA             Polar       vanDerWaals
+H   217  GLU  G   126  LYS               PIADA             Ionic       vanDerWaals
