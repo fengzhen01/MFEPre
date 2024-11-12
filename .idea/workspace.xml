@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a61305e0-9fc9-45ce-9b9c-c23cddc7576d" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2okDlkqsvVe6xfy0u1jpQAZM4Wu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/迁移文档/上传github/MFEPre-main"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\迁移文档\上传github\MFEPre-main" />
+      <recent name="E:\迁移文档\上传github\MFEPre-main\Feature extraction\Topology" />
+      <recent name="E:\迁移文档\上传github\MFEPre-main\Feature extraction\SASA" />
+      <recent name="E:\迁移文档\上传github\MFEPre-main\Feature extraction\IP" />
+      <recent name="E:\迁移文档\上传github\MFEPre-main\Feature extraction\Dynamics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\迁移文档\上传github\MFEPre-main\Feature extraction\Dynamics" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a61305e0-9fc9-45ce-9b9c-c23cddc7576d" name="更改" comment="" />
+      <created>1731404832413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731404832413</updated>
+    </task>
+    <servers />
+  </component>
+</project>
