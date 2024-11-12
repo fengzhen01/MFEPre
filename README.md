@@ -40,10 +40,11 @@ a： To run ProtBERT_feature_generator.py, follow these steps:
     Prerequisites:
     Install required dependencies: Ensure you have Python installed (preferably Python 3.6+). You will also need to install the required Python libraries, 
     such as transformers, torch, and biopython. You can install them using pip: pip install torch transformers biopython
+    
 b:  Download ProtBERT Model: The ProtBERT_feature_generator.py script likely uses a pre-trained ProtBERT model. You can download it from the Hugging Face Model Hub.
 
 ### 8. protein graph embedding 
-
+Input protein nodes and edge data into graph neural network to obtain protein graph embedding features
 
 
 ## Help
