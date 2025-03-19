@@ -1,4 +1,4 @@
-# TCFFPre:
+# MFEPre:
 Multi-feature enhanced protein language models for accurate protein-RNA binding residue prediction
 
 ## protein feature extraction
